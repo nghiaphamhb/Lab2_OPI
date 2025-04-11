@@ -19,4 +19,5 @@ public class Lab4 {
   c.t26(c);
   }
 }
-previous : 14
+previous : 15
+previous : 21
